@@ -1,37 +1,137 @@
-# Save this file at: .github/workflows/snake.yml
-# in your profile repository (the repo named exactly after your username).
+<!--
+  Nikhil Thakur — GitHub Profile README
+  Save as README.md in: github.com/nikhilthakur21/nikhilthakur21
+  Only one placeholder left — search for "REPLACE".
+  No API keys, no GitHub Actions, no setup. Paste and commit.
+-->
 
-name: Generate Contribution Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nikhil%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%C2%B7%20TypeScript&descAlignY=52&descSize=18" />
 
-on:
-  schedule:
-    # Regenerates every 12 hours so the snake stays current
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<div align="center">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Building+fast%2C+responsive+web+interfaces)](https://git.io/typing-svg)
 
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+</div>
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
+
+## 👨‍💻 About Me
+
+I build responsive, component-driven web interfaces with React and TypeScript. I care about clean architecture, accessible markup, and UI that holds up on every screen size.
+
+- 📍 Based in **Pune, India**
+- 💼 Currently at **Crestline Intelligence**
+- 🔭 Working with **React, TypeScript, Tailwind CSS**
+- 🌱 Expanding into **Node.js, Express & MongoDB** to go full-stack
+- 🤝 Open to **freelance projects and collaboration**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-thakur-9195282b7)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL)
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,figma,vercel&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Frontend** — JavaScript (ES6+), TypeScript, React, React Router, Redux, Tailwind CSS, Bootstrap
+**Backend & Data** — Node.js, Express, MongoDB, MySQL, REST APIs (Axios)
+**Tools** — Git, GitHub, Vite, Figma, Vercel, Netlify
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏘️ EstateFlow
+Real estate property management platform with role-based authentication, protected routing, an admin dashboard, and full property CRUD built on a scalable component architecture.
+
+`React` `Tailwind CSS` `Axios` `React Router`
+
+[**Code →**](https://github.com/nikhilthakur21/EstateFlow-Real_Estate_Property-Management_Platform)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ TaskPilot
+Task management application supporting full CRUD operations, with React Router navigation and a JSON Server REST API backing the data layer.
+
+`React` `Tailwind CSS` `React Router` `JSON Server`
+
+[**Code →**](https://github.com/nikhilthakur21/TaskPilot-Task_management_application)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Artist Portfolio — Sameer Gorde
+Client project: a digital studio site for a Pune-based painter, structured around three thematic collections — nostalgia, migration, and the body.
+
+`TypeScript` `React`
+
+[**Code →**](https://github.com/nikhilthakur21/Artist-Portfolio_SameerGorde)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌈 Heaven & Hue
+Responsive marketing site built on a CSS grid system, with hover interactions and a considered colour palette.
+
+`HTML5` `CSS3` `Bootstrap`
+
+[**Code →**](https://github.com/nikhilthakur21/Heven-hue_Project)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 How I Work With AI
+
+AI tooling is part of my daily workflow, not a substitute for understanding the code:
+
+| Where I use it | Where I don't |
+|---|---|
+| Scaffolding components and boilerplate | Architecture decisions I can't explain |
+| Reviewing my own PRs before a teammate does | Shipping generated code I haven't read |
+| Exploring unfamiliar APIs and libraries | Anything touching auth or data integrity, unreviewed |
+| Writing tests for edge cases I'd overlook | Debugging without forming a hypothesis first |
+
+**Tools:** GitHub Copilot · Claude · Cursor
+
+---
+
+## 📌 Currently Building
+
+- **AI-powered resume matcher** — paste a job description, get a tailored CV and a match score `React` `TypeScript` `LLM API`
+- **TaskPilot v2** — replacing JSON Server with a real Express + MongoDB backend and JWT auth
+- **Learning** — Next.js App Router, Vitest, and React Testing Library
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilthakur21&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilthakur21&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58A6FF" />
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
