@@ -4,11 +4,15 @@
   Search "REPLACE" for the placeholders (portfolio, Instagram, email).
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nikhil%20Thakur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20MERN%20Developer&descAlignY=52&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;AI-Integrated+Web+Applications;LLM+APIs+%7C+OpenAI+%C2%B7+Claude+%C2%B7+Grok;Production-Grade+Apps%2C+End+to+End)](https://git.io/typing-svg)
+<!-- NAME — Poppins, teal -->
+[![Name](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=44&duration=4000&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=70&lines=Nikhil+Thakur)](https://git.io/typing-svg)
+
+<!-- ROTATING ROLES — Poppins, white -->
+[![Roles](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&width=750&height=45&lines=Full-Stack+MERN+Developer;AI-Integrated+Web+Applications;LLM+APIs+%7C+OpenAI+%C2%B7+Claude+%C2%B7+Grok;Production-Grade+Apps%2C+End+to+End)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +28,7 @@ I specialise in **AI-integrated web apps** — LLM API integrations (OpenAI, Cla
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](REPLACE_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](REPLACE_PORTFOLIO_URL)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-thakur-9195282b7)
 &nbsp;
@@ -138,21 +142,10 @@ I specialise in **AI-integrated web apps** — LLM API integrations (OpenAI, Cla
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilthakur21&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=E6EDF3&icon_color=E6EDF3" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilthakur21&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=E6EDF3" />
-
-</div>
-
----
-
 <div align="center">
 
 **Open to full-time roles and freelance projects**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
