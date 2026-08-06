@@ -1,0 +1,36 @@
+# Save at: .github/workflows/ai-insight.yml
+# Replaces the old snake.yml — you can delete that one.
+
+name: Daily AI Insight
+
+on:
+  schedule:
+    # 06:30 IST daily (01:00 UTC)
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate insight
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node .github/scripts/update-insight.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: daily AI insight"
+          git push
