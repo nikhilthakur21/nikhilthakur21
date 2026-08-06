@@ -1,24 +1,20 @@
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header" />
 
 <div align="center">
-
-<!-- NAME — Poppins, teal -->
-[![Name](https://readme-typing-svg.demolab.com?font=Funnel+Display&weight=700&size=44&duration=4000&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=70&lines=Nikhil+Thakur)](https://git.io/typing-svg)
-
-<!-- ROTATING ROLES — Poppins, white -->
-[![Roles](https://readme-typing-svg.demolab.com?font=Funnel+Display&weight=600&size=26&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&width=750&height=45&lines=Full-Stack+MERN+Developer;AI-Integrated+Web+Applications;LLM+APIs+%7C+OpenAI+%C2%B7+Claude+%C2%B7+Grok;Production-Grade+Apps%2C+End+to+End)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.demolab.com?font=Funnel+Display&weight=700&size=44&duration=4000&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=52&lines=Nikhil+Thakur" alt="Nikhil Thakur" />
+<br />
+<img src="https://readme-typing-svg.demolab.com?font=Funnel+Display&weight=600&size=26&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&width=750&height=34&lines=Full-Stack+MERN+Developer;AI-Integrated+Web+Applications;LLM+APIs+%7C+OpenAI+%C2%B7+Claude+%C2%B7+Grok;Production-Grade+Apps%2C+End+to+End" alt="Full-Stack MERN Developer" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full stack developer with **1.2 years of experience** building responsive, scalable web applications.
+I build full stack web applications that real businesses run on every day. In **1.2 years** I've shipped live production systems handling online orders, payments, and automated kitchen workflows.
 
-I specialise in **AI-integrated web apps** — LLM API integrations (OpenAI, Claude, Grok), chatbots, and prompt engineering — and I ship production-grade applications end to end, from database and API design through to deployment and domain setup.
+My focus is **AI-integrated products**: LLM API work with OpenAI, Claude and Grok, custom chatbots, and prompt engineering.
+
+I take projects end to end. Database schema, REST API design, responsive frontend, deployment, domain setup, handover.
 
 <br />
 
@@ -42,8 +38,7 @@ I specialise in **AI-integrated web apps** — LLM API integrations (OpenAI, Cla
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap,nodejs&theme=dark)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=express,mongodb,supabase,git,github,vercel,netlify,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,supabase,git,github,vercel,netlify,vscode&perline=16&theme=dark)](https://skillicons.dev)
 
 </div>
 
