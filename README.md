@@ -10,11 +10,9 @@
 
 ## 👨‍💻 About Me
 
-I build full stack web applications that real businesses run on every day. In **1.2 years** I've shipped live production systems handling online orders, payments, and automated kitchen workflows.
+I'm a **Full Stack MERN Developer** with **1.2 years of experience** delivering websites and web applications that businesses use daily. My work covers the full lifecycle: database design, REST APIs, responsive interfaces, payment integration, deployment, and domain setup.
 
-My focus is **AI-integrated products**: LLM API work with OpenAI, Claude and Grok, custom chatbots, and prompt engineering.
-
-I take projects end to end. Database schema, REST API design, responsive frontend, deployment, domain setup, handover.
+I specialise in **AI-integrated products**, bringing LLM APIs (OpenAI, Claude, Grok), custom chatbots, and prompt engineering into applications that are actually in production.
 
 <br />
 
