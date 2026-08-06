@@ -1,10 +1,9 @@
 <!--
   Nikhil Thakur — GitHub Profile README
-  Save as README.md in the repo: github.com/nikhilthakur21/nikhilthakur21
-  Only 3 placeholders remain — search for "REPLACE" below.
+  Save as README.md in: github.com/nikhilthakur21/nikhilthakur21
+  Search "REPLACE" for the remaining placeholders.
 -->
 
-<!-- ===== ANIMATED HEADER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nikhil%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%C2%B7%20TypeScript&descAlignY=52&descSize=18" />
 
 <div align="center">
@@ -98,41 +97,30 @@ Responsive marketing site built on a CSS grid system, with hover interactions an
 </tr>
 </table>
 
-<!-- REPLACE: add a live demo link beside each "Code →" once deployed, e.g.
-     [**Live Demo →**](https://estateflow.vercel.app) · [**Code →**](...)  -->
+---
+
+## 🤖 Today's Dev Insight
+
+<sub>Auto-generated each morning by a GitHub Action calling the Claude API — the source is in [`.github/scripts/`](https://github.com/nikhilthakur21/nikhilthakur21/tree/main/.github/scripts).</sub>
+
+<!-- AI-INSIGHT:START -->
+> Waiting for the first scheduled run.
+<!-- AI-INSIGHT:END -->
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 How I Work With AI
 
-<div align="center">
+AI tooling is part of my daily workflow, not a substitute for understanding the code:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilthakur21&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilthakur21&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58A6FF" />
+| Where I use it | Where I don't |
+|---|---|
+| Scaffolding components and boilerplate | Architecture decisions I can't explain |
+| Reviewing my own PRs before a teammate does | Shipping generated code I haven't read |
+| Exploring unfamiliar APIs and libraries | Anything touching auth or data integrity, unreviewed |
+| Writing tests for edge cases I'd overlook | Debugging without forming a hypothesis first |
 
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=nikhilthakur21&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilthakur21&bg_color=00000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilthakur21/nikhilthakur21/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilthakur21/nikhilthakur21/output/snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nikhilthakur21/nikhilthakur21/output/snake.svg" />
-</picture>
-
-</div>
+**Tools:** GitHub Copilot · Claude · Cursor
 
 ---
 
