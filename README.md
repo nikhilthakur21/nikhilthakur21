@@ -1,18 +1,14 @@
-<!--
-  Nikhil Thakur — GitHub Profile README
-  Save as README.md in: github.com/nikhilthakur21/nikhilthakur21
-  Search "REPLACE" for the placeholders (portfolio, Instagram, email).
--->
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header" />
 
 <div align="center">
 
 <!-- NAME — Poppins, teal -->
-[![Name](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=44&duration=4000&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=70&lines=Nikhil+Thakur)](https://git.io/typing-svg)
+[![Name](https://readme-typing-svg.demolab.com?font=Funnel+Display&weight=700&size=44&duration=4000&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=70&lines=Nikhil+Thakur)](https://git.io/typing-svg)
 
 <!-- ROTATING ROLES — Poppins, white -->
-[![Roles](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&width=750&height=45&lines=Full-Stack+MERN+Developer;AI-Integrated+Web+Applications;LLM+APIs+%7C+OpenAI+%C2%B7+Claude+%C2%B7+Grok;Production-Grade+Apps%2C+End+to+End)](https://git.io/typing-svg)
+[![Roles](https://readme-typing-svg.demolab.com?font=Funnel+Display&weight=600&size=26&duration=3000&pause=800&color=E6EDF3&center=true&vCenter=true&width=750&height=45&lines=Full-Stack+MERN+Developer;AI-Integrated+Web+Applications;LLM+APIs+%7C+OpenAI+%C2%B7+Claude+%C2%B7+Grok;Production-Grade+Apps%2C+End+to+End)](https://git.io/typing-svg)
 
 </div>
 
