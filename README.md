@@ -1,19 +1,15 @@
 <!--
-  ANIMATED GITHUB PROFILE README
-  Replace every instance of `your-username` with your actual GitHub username.
-  Replace placeholder links (portfolio, LinkedIn, email, demo URLs) before publishing.
+  Nikhil Thakur — GitHub Profile README
+  Save as README.md in the repo: github.com/nikhilthakur21/nikhilthakur21
+  Only 3 placeholders remain — search for "REPLACE" below.
 -->
 
-<!-- ===== ANIMATED HEADER (waving gradient banner) ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nikhil%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN&descAlignY=52&descSize=18" />
+<!-- ===== ANIMATED HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nikhil%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20%C2%B7%20TypeScript&descAlignY=52&descSize=18" />
 
-<!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+fast%2C+scalable+web+applications)](https://git.io/typing-svg)
-
-<!-- ===== PROFILE VIEW COUNTER ===== -->
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=2F81F7&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Building+fast%2C+responsive+web+interfaces)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,23 +17,18 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
+I build responsive, component-driven web interfaces with React and TypeScript. I care about clean architecture, accessible markup, and UI that holds up on every screen size.
 
-I build production-ready web applications with React, Node.js, and MongoDB. Currently deepening my work with Next.js and advanced React patterns.
-
-- 📍 Based in **Aurangabad, India**
-- 🔭 Currently building with **Next.js** (App Router, Server Components)
-- 🌱 Learning **TypeScript** and testing with **Vitest**
-- 💼 Open to **full-time roles and freelance projects**
-- 📫 Reach me at **your.email@example.com**
-
-<br clear="right"/>
+- 📍 Based in **Pune, India**
+- 💼 Currently at **Crestline Intelligence**
+- 🔭 Working with **React, TypeScript, Tailwind CSS**
+- 🌱 Expanding into **Node.js, Express & MongoDB** to go full-stack
+- 🤝 Open to **freelance projects and collaboration**
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-thakur-9195282b7)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL)
 
 </div>
 
@@ -47,16 +38,14 @@ I build production-ready web applications with React, Node.js, and MongoDB. Curr
 
 <div align="center">
 
-<!-- skillicons.dev — icons animate on hover, load as one lightweight request -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,vue,tailwind,vite&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,figma,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,figma,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
 
-**Frontend** — JavaScript (ES6+), React, Redux Toolkit, Next.js, Vue.js, TailwindCSS, Vite
-**Backend** — Node.js, Express.js, REST APIs, JWT Authentication
-**Database** — MongoDB (Mongoose), MySQL
-**Tools** — Git, GitHub, Vercel, Netlify, Azure, Figma
+**Frontend** — JavaScript (ES6+), TypeScript, React, React Router, Redux, Tailwind CSS, Bootstrap
+**Backend & Data** — Node.js, Express, MongoDB, MySQL, REST APIs (Axios)
+**Tools** — Git, GitHub, Vite, Figma, Vercel, Netlify
 
 ---
 
@@ -67,47 +56,50 @@ I build production-ready web applications with React, Node.js, and MongoDB. Curr
 <td width="50%" valign="top">
 
 ### 🏘️ EstateFlow
-Full-stack property listing platform with role-based access control, an admin dashboard, and complete CRUD operations.
+Real estate property management platform with role-based authentication, protected routing, an admin dashboard, and full property CRUD built on a scalable component architecture.
 
-`React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `JWT`
+`React` `Tailwind CSS` `Axios` `React Router`
 
-[**Live Demo →**](https://your-demo-link.com) · [**Code →**](https://github.com/your-username/estateflow)
+[**Code →**](https://github.com/nikhilthakur21/EstateFlow-Real_Estate_Property-Management_Platform)
 
 </td>
 <td width="50%" valign="top">
 
 ### ✅ TaskPilot
-Task manager with drag-and-drop reordering, persistent state, and filtering by status and priority.
+Task management application supporting full CRUD operations, with React Router navigation and a JSON Server REST API backing the data layer.
 
-`React` `Redux` `TailwindCSS` `LocalStorage`
+`React` `Tailwind CSS` `React Router` `JSON Server`
 
-[**Live Demo →**](https://your-demo-link.com) · [**Code →**](https://github.com/your-username/taskpilot)
+[**Code →**](https://github.com/nikhilthakur21/TaskPilot-Task_management_application)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Netflix Clone
-Responsive streaming interface consuming the TMDB API, with dynamic content rows and Firebase authentication.
+### 🎨 Artist Portfolio — Sameer Gorde
+Client project: a digital studio site for a Pune-based painter, structured around three thematic collections — nostalgia, migration, and the body.
 
-`React` `TMDB API` `Firebase` `CSS3`
+`TypeScript` `React`
 
-[**Live Demo →**](https://your-demo-link.com) · [**Code →**](https://github.com/your-username/netflix-clone)
+[**Code →**](https://github.com/nikhilthakur21/Artist-Portfolio_SameerGorde)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-Personal portfolio with responsive layouts, smooth scroll animations, and a working contact form.
+### 🌈 Heaven & Hue
+Responsive marketing site built on a CSS grid system, with hover interactions and a considered colour palette.
 
-`React` `TailwindCSS` `Framer Motion` `EmailJS`
+`HTML5` `CSS3` `Bootstrap`
 
-[**Live Demo →**](https://your-demo-link.com) · [**Code →**](https://github.com/your-username/portfolio)
+[**Code →**](https://github.com/nikhilthakur21/Heven-hue_Project)
 
 </td>
 </tr>
 </table>
+
+<!-- REPLACE: add a live demo link beside each "Code →" once deployed, e.g.
+     [**Live Demo →**](https://estateflow.vercel.app) · [**Code →**](...)  -->
 
 ---
 
@@ -115,18 +107,16 @@ Personal portfolio with responsive layouts, smooth scroll animations, and a work
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2F81F7&icon_color=2F81F7" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&langs_count=8&title_color=2F81F7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilthakur21&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilthakur21&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58A6FF" />
 
 <br/>
 
-<!-- ANIMATED STREAK COUNTER (the flame pulses) -->
-<img width="60%" src="https://streak-stats.demolab.com?user=your-username&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+<img width="60%" src="https://streak-stats.demolab.com?user=nikhilthakur21&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
 
 <br/>
 
-<!-- ANIMATED CONTRIBUTION GRAPH (line draws itself on load) -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=ffffff&color=2F81F7&line=2F81F7&point=1F2328&area=true&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilthakur21&bg_color=00000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" />
 
 </div>
 
@@ -136,16 +126,14 @@ Personal portfolio with responsive layouts, smooth scroll animations, and a work
 
 <div align="center">
 
-<!-- Requires the GitHub Action in snake.yml — see setup notes below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilthakur21/nikhilthakur21/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilthakur21/nikhilthakur21/output/snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nikhilthakur21/nikhilthakur21/output/snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- ===== ANIMATED FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
